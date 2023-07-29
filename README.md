@@ -16,8 +16,8 @@ npm install
 npm run dev
 ```
 
-![APP](assets/cap1.PNG)
-![APP](assets/cap2.PNG)
+![APP](assets/cap1.png)
+![APP](assets/cap2.png)
 
 ## Autor
 

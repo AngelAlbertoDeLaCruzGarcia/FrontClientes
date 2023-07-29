@@ -1,0 +1,38 @@
+.user_img {
+	height: 70px;
+	width: 70px;
+	border: 1.5px solid #f5f6fa;
+}
+
+.img_cont_msg {
+	height: 40px;
+	width: 40px;
+}
+
+.msg_cotainer {
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: 10px;
+	border-radius: 25px;
+	background-color: gainsboro;
+	padding: 15px;
+	position: relative;
+	width: 60%;
+}
+
+.msg_cotainer_send {
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-right: -10px;
+	border-radius: 25px;
+	background-color: #007bff;
+	padding: 10px;
+	position: relative;
+	width: 60%;
+}
+
+@media (max-width: 576px) {
+	.contacts_card {
+		margin-bottom: 15px !important;
+	}
+}
